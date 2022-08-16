@@ -8,7 +8,7 @@ With the output images of the land cover classification and the index maps, time
 
 Each script contains a brief README at the beginning, here information on what to consider while using the script is provided. This README can be copied in the GEE code editor as well.
 
-The following flowchart depicts basic methods which are used in the scripts and outlines the workflow to monitor land cover and vegetation change in the desired study area. The shown steps and methods are compiled of commands and algorithms from GEE Guides and JavaScript libraries.
+The following flowchart depicts data and methods which are used in the scripts and outlines the workflow to monitor land cover and vegetation change in the desired study area. The shown steps and methods are compiled of commands and algorithms from GEE Guides and JavaScript libraries.
 
 ![Workflow](https://github.com/steichtmann/Land-change-monitoring-using-JavaScript-and-GEE-/blob/603c4e58a92ed86a0831684d3ebd7e838c5ee384/Workflow-land-change-monitoring-.png)
 
