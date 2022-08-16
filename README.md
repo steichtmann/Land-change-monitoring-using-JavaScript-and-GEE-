@@ -8,5 +8,5 @@ Each script contains a brief README at the beginning, here information on what t
 
 The following flowchart depicts data and methods which are used in the scripts and outlines the workflow to monitor land cover and vegetation change in the desired study area. The shown steps and methods are compiled of commands and algorithms from GEE Guides and JavaScript libraries.
 
-![Workflow](https://github.com/steichtmann/Land-change-monitoring-using-JavaScript-and-GEE-/blob/603c4e58a92ed86a0831684d3ebd7e838c5ee384/Workflow-land-change-monitoring.png)
+![Workflow](https://github.com/steichtmann/Land-change-monitoring-using-JavaScript-and-GEE-/blob/32113d81db9e18b4d4983a30a9fcd91295773cf5/Workflow-land-change-monitoring.png)
 
