@@ -6,7 +6,7 @@ With the output images of the land cover classification and the index maps, time
 
 Each script contains a brief README at the beginning, here information on what to consider while using the script is provided. This README can be copied in the GEE code editor as well.
 
-The following flowchart depicts data and methods which are used in the scripts and outlines the workflow to monitor land cover and vegetation change in the desired study area. The shown steps and methods are compiled of commands and algorithms from GEE Guides and JavaScript libraries.
+The following flowchart depicts data and methods which are used in the scripts and outlines the workflow to monitor land cover and vegetation change in the desired study area. The shown steps and methods are compiled of commands and algorithms from GEE Guides and JavaScript libraries. The pan-sharpening of Landsat imagery was used to support the identification of suitable testing and training data for the land cover classification and accuracy assessment. However, the required codes for creating pan-sharpened images are not contained in the scripts provided as there exists a full [GEE Guide](https://developers.google.com/earth-engine/guides/image_transforms) on that topic.
 
 ![Workflow](https://github.com/steichtmann/Land-change-monitoring-using-JavaScript-and-GEE-/blob/32113d81db9e18b4d4983a30a9fcd91295773cf5/Workflow-land-change-monitoring.png)
 
